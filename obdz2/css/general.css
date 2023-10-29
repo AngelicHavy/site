@@ -1,0 +1,115 @@
+@import url(index.css);
+
+:root {
+  --main-bg-color: #496E5B;
+  --secondary-color: #31493C;
+  --font-color: #ECEBE4;
+  --hover-transition: 0.2s ease-in-out;
+  --accent-color: #F786AA;
+  --element-shadow: 2px 2px 10px #273120;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  width: 50%;
+}
+
+main {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: var(--main-bg-color);
+  box-sizing: border-box;
+  color: var(--font-color);
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+  transition: var(--hover-transition);
+}
+
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  column-gap: 20px;
+  align-items: center;
+  background-color: var(--secondary-color);
+}
+
+.logo-wrap {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  align-items: center;
+  padding: 30px 10px;
+  background-color: var(--secondary-color);
+}
+
+.ui-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+}
+
+.user-img {
+  width: 30px;
+}
+
+.shopping-cart-img {
+  width: 40px;
+}
+
+#white-cat-logo {
+  width: 50px;
+}
+
+footer {
+  background-color: var(--secondary-color);
+  text-align: center;
+  padding: 20px 10px;
+}
+
+footer p {
+  opacity: 70%;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: var(--hover-transition);
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 10px;
+  column-gap: 50px;
+  list-style: none;
+}
+
+.navigation ul li :hover {
+  opacity: 70%;
+}
+
+.accent-color {
+  color: var(--accent-color);
+  display: inline;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Реєстрація</title>
+  <link rel="stylesheet" type="text/css" href="css/general.css">
+  <link rel="shortcut icon" href="img/black-cat.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <div class="logo-wrap">
+      <a href="index.html" class="back-to-main-page">
+        <img src="img/white-cat.png" alt="" id="white-cat-logo">
+      </a>
+      <h1>Я втомилася - <p class="accent-color">Магазин мобільних телефонів</p>
+      </h1>
+    </div>
+
+    <div class="registration-form-wrap">
+      <h1 class="accent-color">Реєстрація</h1>
+      <form class="registration-form">
+        <label for="username">Логін:</label>
+        <input type="text" id="username" name="username" required class="user-data-input">
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required class="user-data-input">
+
+        <label for="password">Пароль:</label>
+        <input type="password" id="password" name="password" required class="user-data-input">
+
+        <button type="submit" class="submit-btn">Зареєструватися</button>
+      </form>
+      <div id="message"></div>
+    </div>
+
+    <footer>
+      <p>&copy; 2023 Я втомилася - Магазин мобільних телефонів</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
