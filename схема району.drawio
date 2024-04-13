@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T19:58:59.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="adB49eq_37RnA8MZPk-T" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T20:00:46.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OS-w0rlL_t3XrYgwQHtt" version="24.2.5" type="github">
   <diagram name="Сторінка-1" id="Gaa62khZ0iMMDS0VvzNa">
     <mxGraphModel dx="933" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,13 +79,13 @@
         <mxCell id="AW8jp3L0kF_qgWWD1nCo-29" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="376" y="22" width="76" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AW8jp3L0kF_qgWWD1nCo-35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="AW8jp3L0kF_qgWWD1nCo-35" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;РШ&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AW8jp3L0kF_qgWWD1nCo-37" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="AW8jp3L0kF_qgWWD1nCo-37" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;РШ&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AW8jp3L0kF_qgWWD1nCo-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="AW8jp3L0kF_qgWWD1nCo-38" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;РШ&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="125" y="22" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AW8jp3L0kF_qgWWD1nCo-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
